@@ -1,0 +1,28 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GD73M6FT47OXMRQZS5LBX6BK2HNSJOMNZYGPMEGKRPX4ANZUYHSGRXWJ"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Turbo Coin"
+ORG_URL="http://turboproject.org/"
+ORG_DESCRIPTION="With Turbo Coin You Can Buy Smart Leverage Tokens.By Owning Turbo Coin You Are Part of The First Decentralised Liquidity Pool!."
+ORG_TWITTER="@turbo_coin"
+ORG_LOGO="https://i.ibb.co/Dt2RvQS/1767.png"
+ORG_OFFICIAL_EMAIL="contact@turbocoin.com"
+
+
+[[CURRENCIES]]
+code="TURBO"
+issuer="GD73M6FT47OXMRQZS5LBX6BK2HNSJOMNZYGPMEGKRPX4ANZUYHSGRXWJ"
+anchor_asset="false"
+name="Turbo Coin"
+desc="A turbocharger, colloquially known as turbo, is a turbine-driven, forced induction device that increases an internal combustion engine's power output by forcing extra compressed air into the combustion chamber."
+conditions=""
+image="https://i.ibb.co/Dt2RvQS/1767.png"
+fixed_number=10000000
+max_number=10000000
+is_unlimited=false
+#Turbo Coin was issued using the open and inclusive Stellar blockchain network.
