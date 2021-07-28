@@ -7,7 +7,7 @@ VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Nervos"
-ORG_URL="http://nervos-network.com"
+ORG_URL="http://www.nervos-network.com"
 ORG_DESCRIPTION="The Nervos Network is an open-source public blockchain ecosystem and collection of protocols creating the foundation for a universal internet-like public network"
 ORG_TWITTER="@nervos_network"
 ORG_LOGO="https://i.ibb.co/LRtkj2N/nervos-network-ckb-logo.png"
