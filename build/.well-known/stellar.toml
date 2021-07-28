@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GD73M6FT47OXMRQZS5LBX6BK2HNSJOMNZYGPMEGKRPX4ANZUYHSGRXWJ"
+"GDWOUJSWXH7AV36WP5SIH6O5CHGEYHOOIENUP4IBA4PFDBO3REIFVDGY"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Turbo Coin"
-ORG_URL="http://turboproject.org/"
-ORG_DESCRIPTION="With Turbo Coin You Can Buy Smart Leverage Tokens.By Owning Turbo Coin You Are Part of The First Decentralised Liquidity Pool!."
-ORG_TWITTER="@turbo_coin"
-ORG_LOGO="https://i.ibb.co/Dt2RvQS/1767.png"
-ORG_OFFICIAL_EMAIL="contact@turbocoin.com"
+ORG_NAME="Nervos"
+ORG_URL="http://nervos-network.com"
+ORG_DESCRIPTION="The Nervos Network is an open-source public blockchain ecosystem and collection of protocols creating the foundation for a universal internet-like public network"
+ORG_TWITTER="@nervos_network"
+ORG_LOGO="https://i.ibb.co/LRtkj2N/nervos-network-ckb-logo.png"
+ORG_OFFICIAL_EMAIL="contact@nervos.com"
 
 
 [[CURRENCIES]]
-code="TURBO"
-issuer="GD73M6FT47OXMRQZS5LBX6BK2HNSJOMNZYGPMEGKRPX4ANZUYHSGRXWJ"
+code="CKB"
+issuer="GDWOUJSWXH7AV36WP5SIH6O5CHGEYHOOIENUP4IBA4PFDBO3REIFVDGY"
 anchor_asset="false"
-name="Turbo Coin"
-desc="A turbocharger, colloquially known as turbo, is a turbine-driven, forced induction device that increases an internal combustion engine's power output by forcing extra compressed air into the combustion chamber."
+name="Nervos"
+desc="CKB is a cryptocurrency that can be used as a secure store of value, like Bitcoin. It can also be a value token behind smart contracts, like ETH. Store, execute, and even rent space on the Nervos Blockchain with CKBytes."
 conditions=""
-image="https://i.ibb.co/Dt2RvQS/1767.png"
+image="https://i.ibb.co/LRtkj2N/nervos-network-ckb-logo.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#Turbo Coin was issued using the open and inclusive Stellar blockchain network.
+#Nervos was issued using the open and inclusive Stellar blockchain network.
