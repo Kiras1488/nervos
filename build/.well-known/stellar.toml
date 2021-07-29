@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDWOUJSWXH7AV36WP5SIH6O5CHGEYHOOIENUP4IBA4PFDBO3REIFVDGY"
+"GD7EIPZQJFPIMGQOKUTXOXGK27QKOWW5MRT2Y22O6QM7WNG6W7J565FC"
 ]
 VERSION="2.0.0"
 
@@ -16,13 +16,13 @@ ORG_OFFICIAL_EMAIL="contact@nervos.com"
 
 [[CURRENCIES]]
 code="CKB"
-issuer="GDWOUJSWXH7AV36WP5SIH6O5CHGEYHOOIENUP4IBA4PFDBO3REIFVDGY"
+issuer="GD7EIPZQJFPIMGQOKUTXOXGK27QKOWW5MRT2Y22O6QM7WNG6W7J565FC"
 anchor_asset="false"
 name="Nervos"
 desc="CKB is a cryptocurrency that can be used as a secure store of value, like Bitcoin. It can also be a value token behind smart contracts, like ETH. Store, execute, and even rent space on the Nervos Blockchain with CKBytes."
 conditions=""
 image="https://i.ibb.co/LRtkj2N/nervos-network-ckb-logo.png"
-fixed_number=10000000
-max_number=10000000
+fixed_number=100000000
+max_number=100000000
 is_unlimited=false
 #Nervos was issued using the open and inclusive Stellar blockchain network.
